@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Albelli.Data.Access\Albelli.Data.Access.csproj" />
+    <ProjectReference Include="..\Albelli.Data\Albelli.Data.csproj" />
+  </ItemGroup>
+
+</Project>
